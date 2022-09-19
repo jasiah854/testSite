@@ -1,0 +1,14 @@
+body{
+    background-color: aliceblue;
+    padding: 3rem;
+    color: black;
+}
+h1{
+    font-size: 2rem;
+}
+p{
+    font-size: 15px;
+    border: 3px solid springgreen;
+    border-radius: 12px;
+    padding: 2px;
+}
